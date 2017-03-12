@@ -15,6 +15,18 @@ and Visual FoxPro tables. Text is returned as unicode, and codepage settings
 in tables are honored.
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/dbf-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/dbf-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/dbf-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/dbf-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/dbf-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/dbf-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/dbf/badges/version.svg)](https://anaconda.org/conda-forge/dbf)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/dbf/badges/downloads.svg)](https://anaconda.org/conda-forge/dbf)
+
 Installing dbf
 ==============
 
@@ -35,7 +47,6 @@ It is possible to list all of the versions of `dbf` available on your platform w
 ```
 conda search dbf --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -71,18 +82,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/dbf-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/dbf-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/dbf-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/dbf-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/dbf-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/dbf-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/dbf/badges/version.svg)](https://anaconda.org/conda-forge/dbf)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/dbf/badges/downloads.svg)](https://anaconda.org/conda-forge/dbf)
 
 
 Updating dbf-feedstock
