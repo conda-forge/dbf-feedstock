@@ -18,9 +18,7 @@ in tables are honored.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/dbf-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/dbf-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/dbf-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/dbf-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/dbf-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/dbf-feedstock/branch/master)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/dbf-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/dbf-feedstock)
 
 Current release info
 ====================
