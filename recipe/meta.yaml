@@ -1,6 +1,6 @@
 {% set name = "dbf" %}
-{% set version = "0.97.2" %}
-{% set sha256 = "b4c5165d29f6ca893797974aa9f228d2ad39aa864c166ce5bcb89c636489c8e6" %}
+{% set version = "0.97.4" %}
+{% set sha256 = "481ac71688cfd14f84213876aa2734fd85308d22d2c921679b84e36cbc0cc9dc" %}
 
 package:
   name: {{ name|lower }}
