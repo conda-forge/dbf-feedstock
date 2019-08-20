@@ -1,6 +1,6 @@
 {% set name = "dbf" %}
-{% set version = "0.98.2" %}
-{% set sha256 = "404579cb6bab67aa69317e27b48d5e06fd8882d060221d72192ef80ee11f1535" %}
+{% set version = "0.98.3" %}
+{% set sha256 = "f077256bb003b7783c29a0653d8ded911f0b6e471af444e7700775a1fc0ea705" %}
 
 package:
   name: {{ name|lower }}
@@ -32,6 +32,7 @@ about:
   home: https://pypi.python.org/pypi/dbf
   license: BSD 3-clause
   license_family: BSD
+  license_file: "dbf/LICENSE"
   summary: 'Pure python package for reading/writing dBase, FoxPro, and Visual FoxPro .dbf files (including memos)'
 
   description: |
