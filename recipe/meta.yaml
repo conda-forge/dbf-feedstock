@@ -32,6 +32,7 @@ about:
   home: https://pypi.python.org/pypi/dbf
   license: BSD 3-clause
   license_family: BSD
+  license_file: "dbf/LICENSE"
   summary: 'Pure python package for reading/writing dBase, FoxPro, and Visual FoxPro .dbf files (including memos)'
 
   description: |
