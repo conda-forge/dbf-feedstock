@@ -41,7 +41,7 @@ about:
     and Visual FoxPro tables. Text is returned as unicode, and codepage settings
     in tables are honored.
   doc_url: http://pythonhosted.org/dbf/
-  dev_url: https://bitbucket.org/stoneleaf/dbf
+  dev_url: https://github.com/ethanfurman/dbf
 
 extra:
   recipe-maintainers:
