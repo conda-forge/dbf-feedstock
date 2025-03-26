@@ -1,5 +1,5 @@
 {% set name = "dbf" %}
-{% set version = "0.99.9" %}
+{% set version = "0.99.10" %}
 
 package:
   name: {{ name|lower }}
@@ -7,10 +7,10 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 305122d54d1136fadf0ed5781e9bcf80a4c289b021efacfb1a79a3df622e6d8c
+  sha256: 5002bb7a579a5302d3db63738efe3e9d2532ea54a6f630176d3526416ffe00a2
 
 build:
-  number: 1
+  number: 0
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
 
