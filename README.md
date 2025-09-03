@@ -18,7 +18,6 @@ Visual FoxPro .dbf files. Currently supports dBase III, Clipper, FoxPro,
 and Visual FoxPro tables. Text is returned as unicode, and codepage settings
 in tables are honored.
 
-
 Current build status
 ====================
 
