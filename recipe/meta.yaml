@@ -1,5 +1,5 @@
 {% set name = "dbf" %}
-{% set version = "0.99.10" %}
+{% set version = "0.99.11" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 5002bb7a579a5302d3db63738efe3e9d2532ea54a6f630176d3526416ffe00a2
+  sha256: 2169c05252c0efbe897f346f0683326ec25854beab1d0c6430df6e903a57b315
 
 build:
   number: 0
